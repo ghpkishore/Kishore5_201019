@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Kishore1_201019</string>
+    <string name="name">Name</string>
+    <string name="password">password</string>
+    <string name="login">Login</string>
+    <string name="no_of_attempts_pending">No of attempts pending</string>
+    <string name="kiranez">KIRANEZ</string>
+    <string name="this_is_second_activity">This is Second Activity</string>
+    <string name="new_user_signup">New User? SignUp!</string>
+    <string name="User_name">Name</string>
+
+
+</resources>

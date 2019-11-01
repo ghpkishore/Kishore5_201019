@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "370694235155",
+    "firebase_url": "https://login-kiranez.firebaseio.com",
+    "project_id": "login-kiranez",
+    "storage_bucket": "login-kiranez.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370694235155:android:7336859945038f68a68be6",
+        "android_client_info": {
+          "package_name": "com.example.kishore1_201019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370694235155-08vopucio5ev98ederovem51d7pukbfo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdEA3vcvCrGqlLduIrV3arXv3ONA3Apac"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370694235155-08vopucio5ev98ederovem51d7pukbfo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
